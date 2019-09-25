@@ -1,2 +1,1 @@
-# DemoJenkins
-Maven Jenkins Project
+# ExampleJenkins
